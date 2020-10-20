@@ -9,7 +9,7 @@
     "react-dom": "^16.8.6"
   },
   "devDependencies": {
-    "react-scripts": "3.0.1",
+    "react-scripts": "3.4.4",
     "react-testing-library": "^7.0.1"
   },
   "scripts": {
